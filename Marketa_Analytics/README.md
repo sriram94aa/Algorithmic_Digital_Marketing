@@ -1,11 +1,27 @@
+# Marketa Analytics
+## Part -1
+In this Project, we were given a company to evaluate and understand how programmatic services are integrated into applications. There were multiple elements to be considered when weevaluate various algorithmic marketing concepts. We looked at various programmatic services incorporated into a company’s website. ​This part helped us understand how Unilever is leveraging marketing services. 
 
-![](https://lh4.googleusercontent.com/Pd_lFQeUCcMMwPLOKqs50d_HtsTI7rLzKgUpoNIPMl8jgVa9oTWigp-PeIc4Ae6mt6vjgUkAjifaoUs5HoLnEQRmsUxO2rNeKq3KEVKgVPSBTwKoftfcSDzuWrrGOYeps4yheoK9)
+We have answered the below questions in this Task:
+1. What is the product?
+2. How are they selling it?
+3. How is it priced?
+4. What promotions are they using?
+5. What algorithmic marketing services are they using?
+6. What datasets do you think you will need to build these algorithmic services?
+	a.How frequently will data change?
+	b.How would you store these datasets?
+## Part - 2
 
-Unilever plc is a British multinational consumer goods company headquartered in London, England. Unilever's products are available in around 190 countries Unilever owns over 400 brands, with a turnover in 2017 of 53.7 billion euros, and thirteen brands with sales of over one billion euros. Unilever is technically considered a recession-resistant company.
-
-## **Included Products**
-
-Unilever products include food, confections, energy drinks, baby food, soft drinks, cheese, ice cream, tea, cleaning agents, coffee, pet food, bottled water, toothpaste, chewing gum, frozen pizza, pregnancy tests, juice, margarine, beauty products, personal care, breakfast cereals, pharmaceutical and consumer healthcare products. Unilever is the largest producer of soap in the world.
+The company is embarking on a project to build a marketing dashboard using Snowflake& Einstein Analytics. They have asked us to build a prototype and discuss the usecase.
+	●We started with the​ TPC-DS Dataset from Snowflake. Designed a dashboard that will leverage queries from Einstein Analytics to Snowflake to build the dashboard.
+	●Discussed who is this dashboard targeted towards and the usecases
+	●Described the design on how would we onboard the dataset
+	●Described what tools (xsv, Python) will be used for data cleanup
+	●Prototyped the application
+	●Chose a marketing related dataset from ​criteo.com
+	●Pre-processed it with xsv
+	●Showed how we uploaded it to Snowflake and/or Einstein analytics and 		  how this data can be visualized in Einstein analytics.
 
 ## CLAAT Document Link
 
