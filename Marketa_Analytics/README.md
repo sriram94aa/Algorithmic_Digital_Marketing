@@ -1,8 +1,8 @@
 # Marketa Analytics
 ## Part -1
-In this Project, we were given a company to evaluate and understand how programmatic services are integrated into applications. There were multiple elements to be considered when weevaluate various algorithmic marketing concepts. We looked at various programmatic services incorporated into a company’s website. ​This part helped us understand how Unilever is leveraging marketing services. 
+In this Project, I was given a company to evaluate and understand how programmatic services are integrated into applications. There were multiple elements to be considered when I evaluate various algorithmic marketing concepts. I looked at various programmatic services incorporated into a company’s website. ​This part helped me to understand how Unilever is leveraging marketing services. 
 
-We have answered the below questions in this Task:
+I have answered the below questions in this Task:
 1. What is the product?
 2. How are they selling it?
 3. How is it priced?
@@ -13,15 +13,15 @@ We have answered the below questions in this Task:
 	b.How would you store these datasets?
 ## Part - 2
 
-The company is embarking on a project to build a marketing dashboard using Snowflake& Einstein Analytics. They have asked us to build a prototype and discuss the usecase.
-	●We started with the​ TPC-DS Dataset from Snowflake. Designed a dashboard that will leverage queries from Einstein Analytics to Snowflake to build the dashboard.
+I have built a prototype for the company that has embarked on a project to build a marketing dashboard using Snowflake & Einstein Analytics.
+	●I started with the​ TPC-DS Dataset from Snowflake. Designed a dashboard that will leverage queries from Einstein Analytics to Snowflake to build the dashboard.
 	●Discussed who is this dashboard targeted towards and the usecases
 	●Described the design on how would we onboard the dataset
 	●Described what tools (xsv, Python) will be used for data cleanup
 	●Prototyped the application
 	●Chose a marketing related dataset from ​criteo.com
 	●Pre-processed it with xsv
-	●Showed how we uploaded it to Snowflake and/or Einstein analytics and 		  how this data can be visualized in Einstein analytics.
+	●Showed how we uploaded it to Snowflake and/or Einstein analytics and how this data can be visualized in Einstein analytics.
 
 ## CLAAT Document Link
 
